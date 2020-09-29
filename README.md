@@ -1,2 +1,2 @@
-# docker-postgres12-ja-JP-locale
-PostgreSQL12にja_JP.UTF8ロケールを追加したDockerイメージ
+# docker-postgres13-ja-JP-locale
+PostgreSQL13にja_JP.UTF8ロケールを追加したDockerイメージ
